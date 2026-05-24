@@ -8,8 +8,8 @@ const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`🚀 Web Server is running on port ${port}`));
 
 // 🔐 2. Bot Configuration
-const token = '8727419436:AAENyQsjl3l773rGCgrZUCsTTv2BhRDPZfs'; 
-const CHANNEL_LINK = 'https://t.me/+GgeXA1UTSckzODg1';
+const token = '8436452827:AAHMcI_a54cGGoGj6XIWNsQDHXsi7E8MKXg'; 
+const CHANNEL_LINK = 'https://t.me/rj7383hjf';
 
 // 🚀 3. Bot Initialization
 const bot = new TelegramBot(token, {polling: true});
