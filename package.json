@@ -1,0 +1,13 @@
+{
+  "name": "vip-prediction-bot",
+  "version": "1.0.0",
+  "description": "Colour Trading VIP Prediction Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-telegram-bot-api": "^0.65.0"
+  }
+}
